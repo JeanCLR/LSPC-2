@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./LSPC-2
+./5_graphic.py
+
